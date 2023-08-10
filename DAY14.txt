@@ -86,7 +86,7 @@
 0005.00 ENDPGM                                                                  
         ****************** End of data **************************************** 
                                                                                 
-5.Program where OPD is not shared
+5.Program where ODP is not shared
 
 
 RPGLE program to call from RPGLE           
